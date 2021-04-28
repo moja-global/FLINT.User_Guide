@@ -1,4 +1,4 @@
-# TITLE 
+# FLINT USER GUIDES 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 A user friendly collection of guides for navigating the FLINT space 
