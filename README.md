@@ -1,7 +1,7 @@
 # TITLE 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-Text 
+A user friendly collection of guides for navigating the FLINT space 
 
 ## How to Get Involved?  
 
